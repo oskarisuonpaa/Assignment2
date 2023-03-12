@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf8'?>
+<data>
+	<topic name="Dogs">
+		<note name="Dogs are better than cats">
+			<text>Dogs are loyal to their owner</text>
+			<timestamp>03/12/23 - 19:30:00</timestamp>
+		</note>
+		<note name="Dogs are worse than cats">
+			<text>Cats are way cuter uwU</text>
+			<timestamp>03/12/23 - 19:31:36</timestamp>
+		</note>
+		<articleLink>https://en.wikipedia.org/wiki/Dog</articleLink>
+		<note name="Dogs?">
+			<text>DOGS!</text>
+			<timestamp>03/12/23 - 19:45:30</timestamp>
+		</note>
+		<articleLink>https://en.wikipedia.org/wiki/Shiba_Inu</articleLink>
+		<note name="djlkad">
+			<text>jlka</text>
+			<timestamp>03/12/23 - 19:47:45</timestamp>
+		</note>
+	</topic>
+</data>
